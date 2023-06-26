@@ -1,0 +1,33 @@
+body {
+  background: #f8e8a6;
+}
+h1 {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  display: inline;
+  margin: 10px 15px;
+  color: black;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 90%;
+  border-radius: 7px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+}
+
+.mail {
+  margin: 4px;
+}
